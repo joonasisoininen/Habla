@@ -48,6 +48,8 @@ Feature prioritization followed a **must / should / could** framework grounded i
 
 The product was developed iteratively:
 
+* **Understadning People** Starting out with user personas, journey maps,
+  early ethnography and semi-structured interviews of 7 bilingual University students
 * **Low-fidelity sketches** to explore core interaction flows and basic easrly stage ideas
 * **Heuristic evaluation** using Nielsen’s principles
 * **Medium-fidelity interactive prototype** refining usability, clarity, and feedback
