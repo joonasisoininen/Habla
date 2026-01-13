@@ -9,6 +9,12 @@ Habla is a speaking-first language exchange product concept focused on reducing 
 - Integrated product features such as visible skill levels, AI-assisted conversation support, and progress tracking
 - Planned and ran usability testing; achieved ~83% likelihood-to-return, indicating strong perceived product value
 
+Key takeaways: clarity beats feature depth, emotional safety drives retention, and continuous user feedback is critical to aligning design intent with real behavior.
+
+Tools: v0, User research, UX strategy, Usability testing, Behavioral psychology
+
+
+
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/joonasisoininens-projects/v0-habla)
