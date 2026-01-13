@@ -1,29 +1,118 @@
-# Habla
-
-Habla is a speaking-first language exchange product concept focused on reducing friction, anxiety, and drop-off in conversational language practice. I worked on this project using a product-led approach, from discovery through validated design.
-
-- Conducted user interviews and observation to identify key pain points: unstructured conversations, social anxiety, unclear skill matching, and weak progress feedback
-- Analyzed existing platforms (Duolingo, Tandem, HelloTalk, Discord) to identify gaps between solo learning and real conversation
-- Defined core jobs-to-be-done around partner matching, psychological safety, and visible improvement
-- Owned end-to-end user flows (onboarding, room discovery, live sessions, feedback) and led iterative prototyping from low- to medium-fidelity
-- Integrated product features such as visible skill levels, AI-assisted conversation support, and progress tracking
-- Planned and ran usability testing; achieved ~83% likelihood-to-return, indicating strong perceived product value
-
-Key takeaways: clarity beats feature depth, emotional safety drives retention, and continuous user feedback is critical to aligning design intent with real behavior.
-
-Tools: v0, User research, UX strategy, Usability testing, Behavioral psychology
-
-
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/joonasisoininens-projects/v0-habla)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iBjxB1c50M9)
+# Habla — Speaking-First Language Exchange
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Habla is a **product and UX case study** developed as part of a Human-Computer Interaction (HCI) course at the University of Victoria. The project explores how product design, behavioral psychology, and usability testing can be used to reduce friction, anxiety, and drop-off in conversational language practice.
+
+This repository documents the **product discovery, design decisions, prototypes, and user validation** behind Habla. It is **not** a production-ready or deployed application.
+
+---
+
+## Problem
+
+Many language learners struggle to transition from solo learning to real conversation. Existing tools often suffer from:
+
+* Unstructured or awkward conversations
+* Social anxiety and fear of embarrassment
+* Poor skill-level matching between users
+* Little feedback on progress or improvement
+
+These issues lead to low retention and inconsistent speaking practice.
+
+---
+
+## Competitive Landscape
+
+We analyzed existing platforms to understand where they succeed and fall short:
+
+* **Duolingo** — strong for vocabulary and habits, weak for real conversation
+* **Tandem / HelloTalk** — supports conversation but lacks structure and safety
+* **Discord language servers** — flexible but overwhelming and inconsistent
+
+**Gap identified:** a lack of structured, psychologically safe environments for speaking-first practice.
+
+---
+
+## Product Strategy
+
+Based on interviews and observation, we defined core **Jobs-To-Be-Done**:
+
+* Find appropriate conversation partners quickly
+* Feel safe and confident speaking
+* See visible progress over time
+
+Feature prioritization followed a **must / should / could** framework grounded in user research.
+
+---
+
+## Design & Prototyping
+
+The product was developed iteratively:
+
+* **Low-fidelity sketches** to explore core interaction flows
+* **Heuristic evaluation** using Nielsen’s principles
+* **Medium-fidelity interactive prototype** refining usability, clarity, and feedback
+
+Key product concepts included:
+
+* Visible language skill levels
+* Practice rooms organized by topic and proficiency
+* AI-assisted conversation support
+* Progress tracking and lightweight gamification
+
+---
+
+## User Testing & Validation
+
+We planned and conducted usability testing with bilingual users using task-based evaluation and post-session interviews.
+
+**Key outcomes:**
+
+* ~83% average likelihood-to-return score
+* Strong perceived value of the core concept
+* Identified confusion points related to navigation, role clarity, and visual hierarchy
+
+Insights were synthesized into clear product recommendations focused on simplification, trust, and guidance.
+
+---
+
+## Key Learnings
+
+* Clarity and guidance outperform feature depth
+* Emotional safety is a first-order product constraint in social learning tools
+* User behavior often diverges from design intent without continuous validation
+
+---
+
+## Future Work
+
+* Simplify primary flows and reduce cognitive load
+* Improve role clarity within conversation rooms
+* Expand progress feedback and cultural learning elements
+* Conduct broader usability testing with more diverse users
+
+---
+
+## Artifacts
+
+* Presentation slides
+* Research and evaluation reports
+* Wireframes and interactive prototype (Figma)
+
+---
+
+## Tools & Methods
+
+Product discovery · User research · UX strategy · Figma · User flows · Usability testing · Heuristic evaluation · Behavioral psychology
+
+---
+
+## Author
+
+Joonas Soininen
+Computer Science & Psychology (Business Minor)
+University of Victoria
+
 
 ## Deployment
 
