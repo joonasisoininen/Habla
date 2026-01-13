@@ -65,34 +65,28 @@ Key product concepts included:
 
 This project intentionally evolved based on user feedback rather than initial assumptions.
 
-Early assumptions
+Early assumptions:
 * Users would prefer open-ended conversation discovery
 * More features (filters, indicators, options) would improve confidence
 * Gamification alone would motivate continued use
   
-What user research validated
+What user research validated:
 * Skill-level matching was critical for psychological safety
 * Users preferred structure over freedom when starting conversations
 * Progress visibility increased motivation and trust
-* 
-What changed as a result
+  
+What changed as a result:
 * Simplified room discovery and reduced choice overload
 * Made skill levels highly visible and central to the experience
 * Reframed AI from a “feature” to a support tool for confidence-building
 * Shifted focus from feature expansion to clarity and guidance
-  
 
-## User Testing & Validation
-
-We planned and conducted usability testing with bilingual users using task-based evaluation and post-session interviews.
 
 **Key outcomes:**
 
 * ~83% average likelihood-to-return score
 * Strong perceived value of the core concept
 * Identified confusion points related to navigation, role clarity, and visual hierarchy
-
-Insights were synthesized into clear product recommendations focused on simplification, trust, and guidance.
 
 
 ## Key Learnings
