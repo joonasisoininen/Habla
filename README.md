@@ -75,7 +75,7 @@ Early Assumptions (Initial Hypothesis):
 * More features (filters, indicators, options) would improve confidence
 * Gamification would drive repeat usage 
   
-What User Research validated:
+What User Research Validated:
 * Skill-level matching was critical for psychological safety
 * Users preferred structured entry points 
 * Progress feedback mattered more than social features
