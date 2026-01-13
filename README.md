@@ -61,7 +61,26 @@ Key product concepts included:
 * AI-assisted conversation support
 * Progress tracking and lightweight gamification
 
+## Product Evolution & Key Decisions
 
+This project intentionally evolved based on user feedback rather than initial assumptions.
+
+Early assumptions
+* Users would prefer open-ended conversation discovery
+* More features (filters, indicators, options) would improve confidence
+* Gamification alone would motivate continued use
+  
+What user research validated
+* Skill-level matching was critical for psychological safety
+* Users preferred structure over freedom when starting conversations
+* Progress visibility increased motivation and trust
+* 
+What changed as a result
+* Simplified room discovery and reduced choice overload
+* Made skill levels highly visible and central to the experience
+* Reframed AI from a “feature” to a support tool for confidence-building
+* Shifted focus from feature expansion to clarity and guidance
+  
 
 ## User Testing & Validation
 
