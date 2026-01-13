@@ -91,12 +91,6 @@ Insights were synthesized into clear product recommendations focused on simplifi
 
 ---
 
-## Artifacts
-
-* Presentation slides
-* Research and evaluation reports
-* Wireframes and interactive prototype (Figma)
-
 
 ## Tools & Methods
 
