@@ -2,12 +2,12 @@
 
 Habla is a speaking-first language exchange product concept focused on reducing friction, anxiety, and drop-off in conversational language practice. I worked on this project using a product-led approach, from discovery through validated design.
 
-• Conducted user interviews and observation to identify key pain points: unstructured conversations, social anxiety, unclear skill matching, and weak progress feedback
-• Analyzed existing platforms (Duolingo, Tandem, HelloTalk, Discord) to identify gaps between solo learning and real conversation
-• Defined core jobs-to-be-done around partner matching, psychological safety, and visible improvement
-• Owned end-to-end user flows (onboarding, room discovery, live sessions, feedback) and led iterative prototyping from low- to medium-fidelity
-• Integrated product features such as visible skill levels, AI-assisted conversation support, and progress tracking
-• Planned and ran usability testing; achieved ~83% likelihood-to-return, indicating strong perceived product value
+- Conducted user interviews and observation to identify key pain points: unstructured conversations, social anxiety, unclear skill matching, and weak progress feedback
+- Analyzed existing platforms (Duolingo, Tandem, HelloTalk, Discord) to identify gaps between solo learning and real conversation
+- Defined core jobs-to-be-done around partner matching, psychological safety, and visible improvement
+- Owned end-to-end user flows (onboarding, room discovery, live sessions, feedback) and led iterative prototyping from low- to medium-fidelity
+- Integrated product features such as visible skill levels, AI-assisted conversation support, and progress tracking
+- Planned and ran usability testing; achieved ~83% likelihood-to-return, indicating strong perceived product value
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
