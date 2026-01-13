@@ -74,7 +74,7 @@ This project intentionally evolved based on user feedback rather than initial as
 Early assumptions (Initial Hypothesis):
 * Users would prefer open-ended conversation discovery
 * More features (filters, indicators, options) would improve confidence
-* Gamification woudl drive repeat usage 
+* Gamification would drive repeat usage 
   
 What user research data validated:
 * Skill-level matching was critical for psychological safety
