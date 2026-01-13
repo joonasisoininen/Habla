@@ -114,7 +114,7 @@ Computer Science & Psychology (Business Minor)
 University of Victoria
 
 
-## Deployment
+## Check out the High fidelity prototype
 
 Live at:
 
