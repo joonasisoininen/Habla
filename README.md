@@ -98,7 +98,7 @@ v0 · Product discovery · User research · UX strategy · User flows · Usabili
 
 
 
-## Check Out the High Fidelity Prototype
+## Check Out the High Fidelity Prototype 👇
 
 **[https://vercel.com/joonasisoininens-projects/v0-habla](https://vercel.com/joonasisoininens-projects/v0-habla)**
 
