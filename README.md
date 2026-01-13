@@ -55,7 +55,7 @@ The product was developed iteratively:
 Key product concepts included:
 
 * Visible language skill levels
-* Practice rooms organized by topic and proficiency
+* Scheduled conversations with real people
 * AI-assisted conversation support
 * Progress tracking and lightweight gamification
 
