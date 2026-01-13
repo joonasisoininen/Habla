@@ -19,7 +19,7 @@ Many language learners struggle to transition from solo learning to real convers
 
 These issues lead to low retention and inconsistent speaking practice.
 
----
+
 
 ## Competitive Landscape
 
@@ -31,7 +31,6 @@ We analyzed existing platforms to understand where they succeed and fall short:
 
 **Gap identified:** a lack of structured, psychologically safe environments for speaking-first practice.
 
----
 
 ## Product Strategy
 
@@ -43,7 +42,7 @@ Based on interviews and observation, we defined core **Jobs-To-Be-Done**:
 
 Feature prioritization followed a **must / should / could** framework grounded in user research.
 
----
+
 
 ## Design & Prototyping
 
@@ -60,7 +59,7 @@ Key product concepts included:
 * AI-assisted conversation support
 * Progress tracking and lightweight gamification
 
----
+
 
 ## User Testing & Validation
 
@@ -74,7 +73,6 @@ We planned and conducted usability testing with bilingual users using task-based
 
 Insights were synthesized into clear product recommendations focused on simplification, trust, and guidance.
 
----
 
 ## Key Learnings
 
@@ -82,7 +80,7 @@ Insights were synthesized into clear product recommendations focused on simplifi
 * Emotional safety is a first-order product constraint in social learning tools
 * User behavior often diverges from design intent without continuous validation
 
----
+
 
 ## Future Work
 
@@ -99,13 +97,11 @@ Insights were synthesized into clear product recommendations focused on simplifi
 * Research and evaluation reports
 * Wireframes and interactive prototype (Figma)
 
----
 
 ## Tools & Methods
 
 Product discovery · User research · UX strategy · Figma · User flows · Usability testing · Heuristic evaluation · Behavioral psychology
 
----
 
 ## Author
 
