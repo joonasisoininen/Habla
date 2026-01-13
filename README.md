@@ -46,8 +46,7 @@ Feature prioritization followed a **must / should / could** framework grounded i
 ## My Role
 * Led the project end-to-end, establishing the initial task breakdown and execution plan and allowing team members to self-select workstreams based on interest and strengths
 * Set early project direction and scope, ensuring alignment between user research, design decisions, and course requirements
-* Conducted and led two user interviews, synthesizing insights into clear product requirements and jobs-to-be-done
-* Owned core user flows (onboarding, discovery, live sessions, feedback), ensuring consistency and clarity across iterations
+* Conducted and led four user interviews, synthesizing insights into clear product requirements and jobs-to-be-done
 * Guided prioritization and iteration based on usability findings, balancing feature ambition with cognitive simplicity
 
 ## Design & Prototyping
@@ -71,25 +70,23 @@ Key product concepts included:
 
 This project intentionally evolved based on user feedback rather than initial assumptions.
 
-Early assumptions (Initial Hypothesis):
+Early Assumptions (Initial Hypothesis):
 * Users would prefer open-ended conversation discovery
 * More features (filters, indicators, options) would improve confidence
 * Gamification would drive repeat usage 
   
-What user research data validated:
+What Rser Research validated:
 * Skill-level matching was critical for psychological safety
 * Users preferred structured entry points 
 * Progress feedback mattered more than social features
   
-Decisions made:
+Decisions Made:
 * Simplified room discovery and reduced choice overload
 * Elevated skill matching to a primary interaction constraint
 * Reframed AI from a “feature” to a support tool for confidence-building
 * Shifted focus from feature expansion to clarity and guidance
 
-
-**Key outcomes:**
-
+Key Outcomes:
 * Achieved ~83% likelihood-to-return, indicating strong product value despite known usability gaps.
 * Strong perceived value of the core concept
 * Identified confusion points related to navigation, role clarity, and visual hierarchy
