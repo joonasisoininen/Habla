@@ -53,11 +53,11 @@ Feature prioritization followed a **must / should / could** framework grounded i
 
 The product was developed iteratively:
 
-* **Understadning People** Starting out with user personas, journey maps,
+* **Understanding People** Starting out with user personas, journey maps,
   early ethnography and semi-structured interviews of 7 bilingual University students
-* **Low-fidelity sketches** to explore core interaction flows and basic easrly stage ideas
-* **Heuristic evaluation** using Nielsen’s principles
-* **High-fidelity interactive prototype** refining usability, clarity, and feedback using v0 by vercel
+* **Low-fidelity Sketches** to explore core interaction flows and basic easrly stage ideas
+* **Heuristic Evaluation** using Nielsen’s principles
+* **High-fidelity Interactive Prototype** refining usability, clarity, and feedback using v0 by vercel
 
 Key product concepts included:
 
