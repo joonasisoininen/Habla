@@ -48,7 +48,7 @@ Feature prioritization followed a **must / should / could** framework grounded i
 
 The product was developed iteratively:
 
-* **Low-fidelity sketches** to explore core interaction flows
+* **Low-fidelity sketches** to explore core interaction flows and basic easrly stage ideas
 * **Heuristic evaluation** using Nielsen’s principles
 * **Medium-fidelity interactive prototype** refining usability, clarity, and feedback
 
@@ -85,7 +85,6 @@ Insights were synthesized into clear product recommendations focused on simplifi
 ## Future Work
 
 * Simplify primary flows and reduce cognitive load
-* Improve role clarity within conversation rooms
 * Expand progress feedback and cultural learning elements
 * Conduct broader usability testing with more diverse users
 
@@ -94,19 +93,12 @@ Insights were synthesized into clear product recommendations focused on simplifi
 
 ## Tools & Methods
 
-Product discovery · User research · UX strategy · Figma · User flows · Usability testing · Heuristic evaluation · Behavioral psychology
+v0 · Product discovery · User research · UX strategy · User flows · Usability testing · Heuristic evaluation · Behavioral psychology
 
 
-## Author
-
-Joonas Soininen
-Computer Science & Psychology (Business Minor)
-University of Victoria
 
 
-## Check out the High fidelity prototype
-
-Live at:
+## Check Out the High Fidelity Prototype
 
 **[https://vercel.com/joonasisoininens-projects/v0-habla](https://vercel.com/joonasisoininens-projects/v0-habla)**
 
