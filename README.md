@@ -27,19 +27,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+Live at:
 
 **[https://vercel.com/joonasisoininens-projects/v0-habla](https://vercel.com/joonasisoininens-projects/v0-habla)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/iBjxB1c50M9](https://v0.app/chat/iBjxB1c50M9)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
