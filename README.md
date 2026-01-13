@@ -1,4 +1,4 @@
-# Habla — Speaking-First Language Exchange
+# Habla: Speaking-First Language Exchange
 
 ## Overview
 
