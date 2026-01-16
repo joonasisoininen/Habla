@@ -118,7 +118,5 @@ v0 · Product discovery · User research · UX strategy · User flows · Usabili
 
 ## Check Out the High Fidelity Prototype 👇
 
-**[[https://vercel.com/joonasisoininens-projects/v0-habla](https://v0-habla.vercel.app/?utm_source=portfolio&utm_medium=link&utm_campaign=habla-demo
-)]([https://vercel.com/joonasisoininens-projects/v0-habla](https://v0-habla.vercel.app/?utm_source=portfolio&utm_medium=link&utm_campaign=habla-demo
-))**
+**https://v0-habla.vercel.app/?utm_source=portfolio&utm_medium=link&utm_campaign=habla-demo**
 
